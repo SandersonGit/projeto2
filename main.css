@@ -48,6 +48,7 @@ form button {
     border: none;
     cursor: pointer;
     padding: 8px;
+    border-radius: 10px;
 }
 
 form input {
@@ -56,6 +57,7 @@ form input {
     border: none;
     border-bottom: 2px solid #000;
     padding: 8px;
+    border-radius: 10px;
 
 }
 table {
@@ -94,12 +96,12 @@ table td img {
     color: #000;
     padding: 8px;
     font-weight: bold;
-    border-radius: 3px;
+    border-radius: 10px;
 }
 .reprovado {
     background-color: red;
     color: #fff;
     padding: 8px;
     font-weight: bold;
-    border-radius: 3px;
+    border-radius: 10px;
 }
